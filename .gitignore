@@ -4,3 +4,4 @@ CGPIODriverTest
 *.symvers
 *.order
 *.mod*
+.vscode
